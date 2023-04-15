@@ -4,4 +4,6 @@
 
 pip install opencv-python
 
-#### run
+#### set cv2.VideoCapture()
+
+##### run
